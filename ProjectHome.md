@@ -1,0 +1,3 @@
+We would like to share materials (apps and curricula) that faculty and students developed this fall.  In order to do that, we hope that the community will upload materials to us, or, in cases where you've already placed these on the Web, grant Google permission to use these.  Faculty please note that in the case of student work, we'll need permission from the students themselves.
+
+This is a place for students and faculty to upload their App Inventor for Android applications as well as lesson ideas.
